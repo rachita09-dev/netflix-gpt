@@ -15,6 +15,9 @@ If you are developing a production application, we recommend using TypeScript wi
 # Netflix GPT
  - Created a new app using vite by npm create vite@latest
  - configures tailwindcss
+ - Header
+ - Login form
+ - SIgn up form
 
 
  # Features
@@ -33,3 +36,6 @@ If you are developing a production application, we recommend using TypeScript wi
 -Netflix gpt
    - search bar
    - movie suggestions
+
+
+- rafce- react arrow function component export 
