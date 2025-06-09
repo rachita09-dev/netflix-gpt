@@ -16,8 +16,19 @@ If you are developing a production application, we recommend using TypeScript wi
  - Created a new app using vite by npm create vite@latest
  - configures tailwindcss
  - Header
+ - Routing of APp
  - Login form
  - SIgn up form
+ - Form Validation
+ - useRef Hook
+ - firebase setup
+ - deploying our app to production
+ - create sign up user account
+ - Implement signin iser api
+ - created redux store with userSlice
+ - Implemented Sign Out
+ - Update Profile api call
+ - fetch movies from tmdb
 
 
  # Features
