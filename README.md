@@ -51,6 +51,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - GPT Search page
 - GPT search bar
 - Multi-language feature in our app
+- 
 
 
  # Features
